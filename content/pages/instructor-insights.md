@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: aafe6703-d47b-813a-9b35-2f688a2ca986
 ---
@@ -44,20 +46,6 @@ This course has similar content to [_18.702 Algebra II_](/courses/18-702-algebra
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small classroom with tables, chairs, and several chalkboards.]({{< resource_file df16cdf3-bc24-50ec-28fd-82e3864d06fb >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    A small classroom with several chalkboards was used for this course.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

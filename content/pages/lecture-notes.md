@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc4b3de6-7021-0f46-cab8-9eca8bf0554d
 ---
@@ -67,7 +70,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Conjugation in Sn (PDF)]({{< baseurl >}}/resources/mit18_703s13_pra_l_6)
+[Conjugation in S{{< sub "n" >}} (PDF)]({{< baseurl >}}/resources/mit18_703s13_pra_l_6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +232,7 @@ TOPICS
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Review <No lecture notes>
+Review \<No lecture notes>
 {{< tdclose >}}
 
 {{< trclose >}}
