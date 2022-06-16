@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,7 +27,7 @@ DUE IN
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 1 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h1)
+{{% resource_link 34d56739-3332-e74e-d6ab-06423400c8a1 "Homework 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #4
@@ -35,7 +36,7 @@ Lec #4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 2 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h2)
+{{% resource_link 7d945cdf-6817-8a33-d20e-69c7372b932a "Homework 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #7
@@ -44,7 +45,7 @@ Lec #7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 3 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h3)
+{{% resource_link f3b1d3be-94fd-d7ca-6efd-9cbc0c5dc4a5 "Homework 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #9
@@ -53,7 +54,7 @@ Lec #9
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 4 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h4)
+{{% resource_link f919ec3f-4c14-b729-1cdc-12dcfe41b741 "Homework 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #11
@@ -62,7 +63,7 @@ Lec #11
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 5 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h5)
+{{% resource_link 6dfa7e9d-5da0-8c30-fbfd-fc72d818469e "Homework 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #13
@@ -71,7 +72,7 @@ Lec #13
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 6 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h6)
+{{% resource_link 4d280750-5737-4c8a-10bc-61cd5dbf823e "Homework 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #14
@@ -80,7 +81,7 @@ Lec #14
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 7 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h7)
+{{% resource_link 3fd137aa-c1a1-a0d3-9b8b-0570f8e62993 "Homework 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #16
@@ -89,7 +90,7 @@ Lec #16
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 8 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h8)
+{{% resource_link 7437b5d7-b1ce-5a93-0229-df6eac280c00 "Homework 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #17
@@ -98,7 +99,7 @@ Lec #17
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 9 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h9)
+{{% resource_link 3f5801a0-7381-e93b-5e68-f853648b1cdf "Homework 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #19
@@ -107,7 +108,7 @@ Lec #19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 10 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h10)
+{{% resource_link b42c116e-a2f5-2f0e-ad3d-58155643392a "Homework 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #E2
@@ -116,7 +117,7 @@ Lec #E2
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 11 (PDF)]({{< baseurl >}}/resources/mit18_703s13_h11)
+{{% resource_link be783b22-0750-9197-7610-92fc36bcfa7c "Homework 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #22

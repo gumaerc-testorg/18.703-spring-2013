@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of readings from the online text book.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

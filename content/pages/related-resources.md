@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to online resources on abstract algebra,
+  linear algebra, and primes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
