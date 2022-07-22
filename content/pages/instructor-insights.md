@@ -1,26 +1,27 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: aafe6703-d47b-813a-9b35-2f688a2ca986
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _18.703 Modern Algebra_ as it was taught by Prof. James McKernan in Spring 2013.
 
 This is a first course in abstract algebra. The focus of the course is on traditional algebra topics that have found the greatest application in science and engineering, as well as in mathematics.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 Students will learn the definition and basic properties of groups, permutation groups, groups of small order, cosets, Lagrange's theorem, the classification of finite abelian groups, normal subgroups, quotient groups, simple groups and the Sylow Theorems. Students will also learn the definition of rings, basic properties of rings, ideals, quotient rings, integral domains, fields of fractions, unique factorization domains and principal ideal domains, and the classification of finite fields.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -28,41 +29,26 @@ Calculus II GIR ![](/images/educator/icon-question-gir.png)
 
 Any of the following courses at MIT will prepare you for 18.703:
 
-*   [_18.02 Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
-*   [_18.022 Calculus_](/courses/18-022-calculus-of-several-variables-fall-2010/)
-*   [_18.024 Calculus with Theory_](/courses/18-024-multivariable-calculus-with-theory-spring-2011/)
-*   [_18.02A Calculus_](http://student.mit.edu/catalog/m18a.html#18.02A)
-*   [_CC.1802 Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.1802)
-*   [_CC.182A Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.182A)
-*   [_ES.1802 Calculus_](http://student.mit.edu/catalog/mESa.html#ES.1802)
-*   [_ES.182A Calculus_](http://student.mit.edu/catalog/mESa.html#ES.182A)
+- [_18.02 Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
+- [_18.022 Calculus_](/courses/18-022-calculus-of-several-variables-fall-2010)
+- [_18.024 Calculus with Theory_](/courses/18-024-multivariable-calculus-with-theory-spring-2011)
+- [_18.02A Calculus_](http://student.mit.edu/catalog/m18a.html#18.02A)
+- [_CC.1802 Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.1802)
+- [_CC.182A Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.182A)
+- [_ES.1802 Calculus_](http://student.mit.edu/catalog/mESa.html#ES.1802)
+- [_ES.182A Calculus_](http://student.mit.edu/catalog/mESa.html#ES.182A)
 
 ### Requirements Satisfied
 
-This course has similar content to [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/), and at most one of the subjects can be counted toward an undergraduate [major](https://math.mit.edu/academics/undergrad/major/) or [minor](https://math.mit.edu/academics/undergrad/minor/) in mathematics.
+This course has similar content to [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011), and at most one of the subjects can be counted toward an undergraduate [major](https://math.mit.edu/academics/undergrad/major/) or [minor](https://math.mit.edu/academics/undergrad/minor/) in mathematics.
 
 ### Offered
 
 Every spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A small classroom with tables, chairs, and several chalkboards.]({{< resource_file df16cdf3-bc24-50ec-28fd-82e3864d06fb >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    A small classroom with several chalkboards was used for this course.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -70,14 +56,11 @@ The students' grades were based on the following activities:
 - 20% Midterm exams (10% each)
 - 30% Final exam
 
-Student Information
--------------------
-
-![11 students took this course in Spring 2013.]({{< resource_file 8e63e817-642f-2208-1b77-0cc723959223 >}})
+## Student Information
 
 ### Enrollment
 
-Enrollment has varied each year from ~10 students to 30 students.
+11 students this year. Enrollment has varied each year from ~10 students to 30 students.
 
 ### Typical Student Background
 
@@ -85,20 +68,17 @@ This course is intended for math majors and anyone interested in the application
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 2 times per week for 1.5 hours per session; 24 sessions total.
-*   The final exam was held during Finals Week, in one 3-hour session.
+- Met 2 times per week for 1.5 hours per session; 24 sessions total.
+- The final exam was held during Finals Week, in one 3-hour session.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Read the assigned sections]({{< baseurl >}}/pages/readings) in the textbook
-*   Work on [homework assignments]({{< baseurl >}}/pages/assignments)
-*   Study for the [exams]({{< baseurl >}}/pages/exams)
+- {{% resource_link d526b275-1005-cc6f-c022-f7e724fc44b5 "Read the assigned sections" %}} in the textbook
+- Work on {{% resource_link 204c5d62-df99-e26a-614d-c66e5cfbe449 "homework assignments" %}}
+- Study for the {{% resource_link 7e3bc46b-f99c-8496-994d-4c3a17426de4 "exams" %}}

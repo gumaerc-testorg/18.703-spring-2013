@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, exams, and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7be777ed-2b62-8611-d045-22e0c9feab52
 ---
@@ -85,7 +89,7 @@ Permutation Groups
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Conjugation in Sn
+Conjugation in S{{< sub "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of readings from the online text book.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d526b275-1005-cc6f-c022-f7e724fc44b5
 ---
