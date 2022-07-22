@@ -5,6 +5,7 @@ file: /courses/18-703-modern-algebra-spring-2013/d7dcf48b3b5e3b275ad90e4048060b0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.703 Modern Algebra, Exam 3
 uid: d7dcf48b-3b5e-3b27-5ad9-0e4048060b00
 ---
 This resource contains information exam 3.
-
