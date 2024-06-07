@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-703-modern-algebra-spring-2013/df16cdf3bc2450ec28fd82e3864d06fb_18-703_classroom-1.jpg
+file_size: 48518
 file_type: image/jpeg
 image_metadata:
   caption: ''
