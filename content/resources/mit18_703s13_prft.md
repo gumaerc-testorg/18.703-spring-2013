@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information exam 3.
 file: /courses/18-703-modern-algebra-spring-2013/d7dcf48b3b5e3b275ad90e4048060b00_MIT18_703S13_prft.pdf
+file_size: 93015
 file_type: application/pdf
 learning_resource_types:
 - Exams
