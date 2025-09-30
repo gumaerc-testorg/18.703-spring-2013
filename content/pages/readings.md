@@ -8,7 +8,7 @@ title: Readings
 uid: d526b275-1005-cc6f-c022-f7e724fc44b5
 ---
 
-Before the indicated lecture, read the following sections in the online text book [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/index.html) by Tom Judson.
+Before the indicated lecture, read the following sections in the online text book {{% resource_link "79cf6427-2b60-4281-abc4-ea3dcb13db33" "Abstract Algebra: Theory and Applications" %}} by Tom Judson.
 
 {{< tableopen >}}
 {{< theadopen >}}

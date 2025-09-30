@@ -29,18 +29,18 @@ Calculus II GIR ![](/images/educator/icon-question-gir.png)
 
 Any of the following courses at MIT will prepare you for 18.703:
 
-- [*18.02 Calculus*](https://ocw-studio.odl.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010)
-- [*18.022 Calculus*](https://ocw-studio.odl.mit.edu/courses/18-022-calculus-of-several-variables-fall-2010)
-- [*18.024 Calculus with Theory*](https://ocw-studio.odl.mit.edu/courses/18-024-multivariable-calculus-with-theory-spring-2011)
-- [*18.02A Calculus*](http://student.mit.edu/catalog/m18a.html#18.02A)
-- [*CC.1802 Calculus*](http://student.mit.edu/catalog/mCCa.html#CC.1802)
-- [*CC.182A Calculus*](http://student.mit.edu/catalog/mCCa.html#CC.182A)
-- [*ES.1802 Calculus*](http://student.mit.edu/catalog/mESa.html#ES.1802)
-- [*ES.182A Calculus*](http://student.mit.edu/catalog/mESa.html#ES.182A)
+- {{% resource_link "769d0e72-2d9f-4884-9447-ad52f14fd974" "*18.02 Calculus*" %}}
+- {{% resource_link "151ac0c7-fc21-4f78-ae03-8bf2a2689fcb" "*18.022 Calculus*" %}}
+- {{% resource_link "fc6ea57f-72a4-42a0-b424-027bb6c72f8e" "*18.024 Calculus with Theory*" %}}
+- {{% resource_link "0a245629-b8dc-4330-9e5c-006ebbb7cc76" "*18.02A Calculus*" %}}
+- {{% resource_link "a6754e9c-17ba-4cac-8a22-6ecddef64e6f" "*CC.1802 Calculus*" %}}
+- {{% resource_link "9c1ce714-b19f-4cf2-9705-a3d3b3867068" "*CC.182A Calculus*" %}}
+- {{% resource_link "c91b500c-e964-4af9-b2e3-eebdd838471d" "*ES.1802 Calculus*" %}}
+- {{% resource_link "065ab7ea-8172-4681-9a0a-48a8d918598c" "*ES.182A Calculus*" %}}
 
 ### Requirements Satisfied
 
-This course has similar content to [*18.702 Algebra II*](https://ocw-studio.odl.mit.edu/courses/18-702-algebra-ii-spring-2011), and at most one of the subjects can be counted toward an undergraduate [major](https://math.mit.edu/academics/undergrad/major/) or [minor](https://math.mit.edu/academics/undergrad/minor.html) in mathematics.
+This course has similar content to {{% resource_link "d43897e3-875a-4fb6-b4be-04c003a35bd4" "*18.702 Algebra II*" %}}, and at most one of the subjects can be counted toward an undergraduate {{% resource_link "dcd08a1d-396a-4d23-9825-f5a41667b857" "major" %}} or {{% resource_link "7e495df9-f063-411e-b2a8-d7ee765d6ad0" "minor" %}} in mathematics.
 
 ### Offered
 

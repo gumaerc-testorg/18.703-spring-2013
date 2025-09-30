@@ -10,7 +10,7 @@ uid: 204c5d62-df99-e26a-614d-c66e5cfbe449
 
 Most of the homework is assigned from the required course textbook:
 
-Herstein, I. N. _Abstract Algebra_. Macmillan, 1986. ISBN: 9780023538209 or the online text book [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/index.html) by Tom Judson.
+Herstein, I. N. _Abstract Algebra_. Macmillan, 1986. ISBN: 9780023538209 or the online text book {{% resource_link "79cf6427-2b60-4281-abc4-ea3dcb13db33" "Abstract Algebra: Theory and Applications" %}} by Tom Judson.
 
 {{< tableopen >}}
 {{< theadopen >}}
